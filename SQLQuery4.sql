@@ -16,7 +16,7 @@ PhoneNumber bigint,
 AddressofStudent varchar (100),
 City varchar (30),
 Country varchar(30),
-PRIMARYKEY (StudentID)
+PRIMARY KEY (StudentID)
 );
 
 
