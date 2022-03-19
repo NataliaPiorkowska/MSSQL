@@ -3,6 +3,7 @@
    - datatypes,
    - how to create databases and tables,
    - how to set primary key (and how it is),
+   - how to use code in github
    - how to set columns and its datatypes. */
    
 CREATE DATABASE students2;
